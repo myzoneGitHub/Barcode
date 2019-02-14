@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\EDA50\\Barcode\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android\\EDA50\\Barcode\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "21,28",
+                        "startColumns": "4,4",
+                        "startOffsets": "1262,1553",
+                        "endLines": "27,30",
+                        "endColumns": "12,12",
+                        "endOffsets": "1548,1708"
+                    }
+                },
+                {
+                    "source": "E:\\Android\\EDA50\\Barcode\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,9,21,10,11,18,17,4,5,7,8,12,13,19,16,20,15,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,213,369,1224,416,467,1058,1016,109,162,257,305,533,628,1101,967,1152,811,705",
+                        "endColumns": "52,43,46,54,50,65,42,41,52,50,47,63,94,76,50,48,71,155,105",
+                        "endOffsets": "104,252,411,1274,462,528,1096,1053,157,208,300,364,623,700,1147,1011,1219,962,806"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,152,199,254,305,371,406,440,493,544,592,656,751,828,879,928,1000,1156",
+                        "endColumns": "52,43,46,54,50,65,34,33,52,50,47,63,94,76,50,48,71,155,105",
+                        "endOffsets": "103,147,194,249,300,366,401,435,488,539,587,651,746,823,874,923,995,1151,1257"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android\\EDA50\\Barcode\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android\\EDA50\\Barcode\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Android\\EDA50\\Barcode\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Android\\EDA50\\Barcode\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

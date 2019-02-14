@@ -1,0 +1,4 @@
+#Thu Feb 14 15:40:42 CST 2019
+base.0=E\:\\Android\\EDA50\\Barcode\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
